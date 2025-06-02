@@ -25,7 +25,7 @@
 For suggestions or feedback, feel free to connect:
 
 - GitHub: [@devilsutra](https://github.com/devilsutra)
-- Email: *@limeshchoudhari@gmail.com*
+- Email: *limeshchoudhari@gmail.com*
 
 ---
 
